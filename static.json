@@ -1,7 +1,8 @@
 {
 "headers": {
   "/*": {
-  "X-Author": "mileskinaolga7"
+  "X-Author": "mileskinaolga7",
+    "Access-Control-Allow-Origin": "*"
   }
  }
 }
